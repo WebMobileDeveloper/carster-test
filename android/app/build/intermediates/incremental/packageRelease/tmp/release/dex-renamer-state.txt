@@ -1,0 +1,4 @@
+#Tue Jul 10 00:39:35 PDT 2018
+base.0=/Users/shanbo/Desktop/Dean/carster-react-native/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.0=classes.dex
+path.0=classes.dex
